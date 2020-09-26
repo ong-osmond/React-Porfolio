@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.9fbd1ee0.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.f4d6b235.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.f4d6b235.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.72b0db94.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.72b0db94.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.fbcb4e55.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.fbcb4e55.js.map",
     "static/css/2.242f24fe.chunk.css": "/React-Portfolio/static/css/2.242f24fe.chunk.css",
-    "static/js/2.53ee0565.chunk.js": "/React-Portfolio/static/js/2.53ee0565.chunk.js",
-    "static/js/2.53ee0565.chunk.js.map": "/React-Portfolio/static/js/2.53ee0565.chunk.js.map",
+    "static/js/2.e8daa108.chunk.js": "/React-Portfolio/static/js/2.e8daa108.chunk.js",
+    "static/js/2.e8daa108.chunk.js.map": "/React-Portfolio/static/js/2.e8daa108.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.4f8c204a137dc730400a40545ecc767e.js": "/React-Portfolio/precache-manifest.4f8c204a137dc730400a40545ecc767e.js",
+    "precache-manifest.f2aeb2457738b8c3483aa6eb6fa43bd4.js": "/React-Portfolio/precache-manifest.f2aeb2457738b8c3483aa6eb6fa43bd4.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/2.242f24fe.chunk.css.map": "/React-Portfolio/static/css/2.242f24fe.chunk.css.map",
     "static/css/main.9fbd1ee0.chunk.css.map": "/React-Portfolio/static/css/main.9fbd1ee0.chunk.css.map",
-    "static/js/2.53ee0565.chunk.js.LICENSE": "/React-Portfolio/static/js/2.53ee0565.chunk.js.LICENSE",
+    "static/js/2.e8daa108.chunk.js.LICENSE": "/React-Portfolio/static/js/2.e8daa108.chunk.js.LICENSE",
     "static/media/Osmond_Ong_Profile_pic.png": "/React-Portfolio/static/media/Osmond_Ong_Profile_pic.3c0abdeb.png",
     "static/media/earth.jpg": "/React-Portfolio/static/media/earth.67af05e1.jpg",
     "static/media/font-awesome.css": "/React-Portfolio/static/media/fontawesome-webfont.fee66e71.woff",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.fbcb4e55.js",
     "static/css/2.242f24fe.chunk.css",
-    "static/js/2.53ee0565.chunk.js",
+    "static/js/2.e8daa108.chunk.js",
     "static/css/main.9fbd1ee0.chunk.css",
-    "static/js/main.f4d6b235.chunk.js"
+    "static/js/main.72b0db94.chunk.js"
   ]
 }
