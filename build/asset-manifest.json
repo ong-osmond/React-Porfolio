@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.9fbd1ee0.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.f4d6b235.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.f4d6b235.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.fbcb4e55.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.fbcb4e55.js.map",
+    "static/css/2.242f24fe.chunk.css": "/React-Portfolio/static/css/2.242f24fe.chunk.css",
+    "static/js/2.53ee0565.chunk.js": "/React-Portfolio/static/js/2.53ee0565.chunk.js",
+    "static/js/2.53ee0565.chunk.js.map": "/React-Portfolio/static/js/2.53ee0565.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.4f8c204a137dc730400a40545ecc767e.js": "/React-Portfolio/precache-manifest.4f8c204a137dc730400a40545ecc767e.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/React-Portfolio/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.9fbd1ee0.chunk.css.map": "/React-Portfolio/static/css/main.9fbd1ee0.chunk.css.map",
+    "static/js/2.53ee0565.chunk.js.LICENSE": "/React-Portfolio/static/js/2.53ee0565.chunk.js.LICENSE",
+    "static/media/Osmond_Ong_Profile_pic.png": "/React-Portfolio/static/media/Osmond_Ong_Profile_pic.3c0abdeb.png",
+    "static/media/earth.jpg": "/React-Portfolio/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/React-Portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/React-Portfolio/static/media/image1.768998c6.jpg",
+    "static/media/image2.jpg": "/React-Portfolio/static/media/image2.8de6195d.jpg",
+    "static/media/image3.jpg": "/React-Portfolio/static/media/image3.28470933.jpg",
+    "static/media/image4.jpg": "/React-Portfolio/static/media/image4.0b37f434.jpg",
+    "static/media/image5.jpg": "/React-Portfolio/static/media/image5.8d16c4af.jpg",
+    "static/media/image6.jpg": "/React-Portfolio/static/media/image6.62b7cc75.jpg",
+    "static/media/ionicons.css": "/React-Portfolio/static/media/ionicons.c037dbbc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbcb4e55.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.53ee0565.chunk.js",
+    "static/css/main.9fbd1ee0.chunk.css",
+    "static/js/main.f4d6b235.chunk.js"
+  ]
+}
